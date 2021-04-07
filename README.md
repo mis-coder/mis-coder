@@ -21,7 +21,6 @@
 
 - 📄 My Resume [resume](https://docs.google.com/document/d/1IzBYrdhyrEVzljx5f19_OKQWf8fhwzKkFiJvIPdXKRo/edit?usp=sharing)
 
-- ⚡ Fun fact **I was never actually interested in coding**
 
 ## ✍ Overview
 
