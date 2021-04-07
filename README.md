@@ -22,18 +22,11 @@
 
 - ⚡ Fun fact **I was never actually interested in coding**
 
-## ✍ My Work
+## ✍ Overview
 
 [![Antra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mis-coder&show_icons=true&theme=dark)](https://github.com/mis-coder)
 
-Here are some of my cool projects on Github:
-
-[![seach-github-users](https://github-readme-stats.vercel.app/api/pin/?username=mis-coder&repo=search-github-users&show_icons=true&theme=dark)](https://github.com/mis-coder/search-github-users)
-[![react-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mis-coder&repo=react-portfolio&show_icons=true&theme=dark)](https://github.com/mis-coder/react-portfolio)
-
 ## 📚 My Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mis-coder&layout=compact&show_icons=true&theme=dark)](https://github.com/mis-coder)
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
