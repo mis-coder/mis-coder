@@ -1,6 +1,7 @@
 # mis-coder
 
-![Antra Verma's-cover](cover.png)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mis-coder&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
 
 ## 👧 About Me
 
