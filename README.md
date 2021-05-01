@@ -5,9 +5,9 @@
 
 ## 👧 About Me
 
-- 🔭 I’m currently working on [Covid-Tracker](https://github.com/mis-coder/Covid-Tracker)
+<!-- - 🔭 I’m currently working on [Covid-Tracker](https://github.com/mis-coder/Covid-Tracker)-->
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, ReactJS and NodeJS**
+- 🌱 I’m currently learning **React Redux**
 
 - 👯 I’m looking to collaborate on **MERN stack Projects**
 
