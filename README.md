@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [Covid-Tracker](https://github.com/mis-coder/Covid-Tracker)-->
 
-- 🌱 I’m currently working on **[redux-crud-app](https://github.com/mis-coder/redux-crud-app)
+- 🌱 I’m currently working on [**redux-crud-app](https://github.com/mis-coder/redux-crud-app)
 
 - 👯 I’m looking to collaborate on **MERN stack Projects**
 
