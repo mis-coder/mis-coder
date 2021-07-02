@@ -19,7 +19,6 @@
 
 - 📫 Contact me **[here](antravermaofficial@miscoder.com)**
 
-- 📄 My Resume [resume](https://docs.google.com/document/d/1IzBYrdhyrEVzljx5f19_OKQWf8fhwzKkFiJvIPdXKRo/edit?usp=sharing)
 
 
 ## ✍ Overview
