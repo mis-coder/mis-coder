@@ -5,21 +5,17 @@
 
 ## 👧 About Me
 
-<!-- - 🔭 I’m currently working on [Covid-Tracker](https://github.com/mis-coder/Covid-Tracker)-->
+- 🌱 I strive for becoming better than yesterday.
 
-<!-- - 🌱 I’m currently working on [**redux-crud-app**](https://github.com/mis-coder/redux-crud-app) -->
+- 📝 I write programming articles on [www.miscoder.com](https://www.miscoder.com)
 
-- 👯 I’m looking to collaborate on **MERN stack Projects**
+- ❤️ I do what I love and vice-verse is also true most of the time.
 
-- 👩‍💻 All of my projects are available at [https://github.com/mis-coder?tab=repositories](https://github.com/mis-coder?tab=repositories)
+- 🤝 Follow me on these platforms for exploring web dev:
 
-- 📝 I write articles on [www.miscoder.com](https://www.miscoder.com)
-
-- 💬 Ask me about **Web development**
-
-- 📫 Contact me **[here](antravermaofficial@miscoder.com)**
-
-
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antra-verma/)
+[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miscoder_v2.0/)
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mis-coder)
 
 ## ✍ Overview
 
@@ -43,8 +39,3 @@ DESIGN ---
 - Microsoft Powerpoint
 
 
-## 🤝 Connect
-
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antra-verma/)
-[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miscoder_v2.0/)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mis-coder)
