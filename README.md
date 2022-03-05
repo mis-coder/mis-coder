@@ -7,8 +7,6 @@
 
 - 🌱 I strive for becoming better than yesterday.
 
-- 📝 I write programming articles on [www.miscoder.com](https://www.miscoder.com)
-
 - ❤️ I do what I love and vice-verse is also true most of the time.
 
 - 🤝 Follow me on these platforms for exploring web dev:
