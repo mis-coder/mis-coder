@@ -1,13 +1,8 @@
-# mis-coder
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mis-coder&theme=ads-juicy-fresh)](https://git.io/streak-stats)
-
-
 ## 👧 About Me
 
-- 🌱 I strive for becoming better than yesterday.
+- 🌱 I strive to become better than yesterday.
 
-- ❤️ I do what I love and vice-verse is also true most of the time.
+- ❤️ I do what I love and vice-versa is also true most of the time.
 
 - 🤝 Follow me on these platforms for exploring web dev:
 
@@ -19,21 +14,5 @@
 
 [![Antra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mis-coder&show_icons=true&theme=dark)](https://github.com/mis-coder)
 
-## 📚 My Skills
-
- CODING ---
-- Css
-- JavaScript
-- Typescript
-- ReactJS
-- Redux
-- Redux Toolkit
-- NodeJS
-- MongoDB
-- Mysql
-
-DESIGN ---
-- Figma
-- Microsoft Powerpoint
 
 
